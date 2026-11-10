@@ -24,12 +24,4 @@
 
 <hr />
 
-<p align="center">
-  <i>Let's connect and build something awesome together.</i>
-  <br /><br />
-</p>
 
-<!-- Visitor counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qorwoals-dev&style=for-the-badge&color=58A6FF" alt="komarev" />
-</p>
